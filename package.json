@@ -1,5 +1,5 @@
 {
-    "name": "Xlicon-V3-MD",
+    "name": "Beekeeper 🐝🐝🐝",
     "version": "3.0",
     "description": "Whatsapp Bot By SalmanSer",
     "main": "index.js",
@@ -7,7 +7,7 @@
     "directories": {
         "lib": "lib",
         "src": "src",
-        "media": "XliconMedia"
+        "media": "Beekeeper 🐝🐝🐝"
     },
     "scripts": {
         "code": "node main.js",
